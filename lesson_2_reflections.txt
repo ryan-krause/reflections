@@ -5,3 +5,10 @@ To initialize the git repository folder .git
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Allow you to verify what is to be added to repository before the actual commit.  Allows user to manually dictate when commits occur
+
+How can you use the staging area to make sure you have one commit per logical change?
+Git diff
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Exploratory changes
